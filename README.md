@@ -4,7 +4,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/cs-rafael-gustavo/angular-9-essencial-cod3r)
 ![GitHub repo size](https://img.shields.io/github/repo-size/cs-rafael-gustavo/angular-9-essencial-cod3r)
 
-Neste curso, estou aprendendo sobre o framework Angular 9, onde serão abordados os principais recursos da ferramenta aplicados num SPA (Single Page Application) com CRUD de produtos.
+Curso de aprendizado sobre o framework Angular 9, onde serão abordados os principais recursos da ferramenta aplicados numa SPA (Single Page Application) com CRUD de Pcdrodutos.
 
 ----
 
