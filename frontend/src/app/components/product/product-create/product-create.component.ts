@@ -6,7 +6,15 @@ import { Component, OnInit } from "@angular/core";
   styleUrls: ["./product-create.component.css"],
 })
 export class ProductCreateComponent implements OnInit {
+  atributoLegal = "qualquer";
+
+  propLegal = "qualquer2";
+
   constructor() {}
 
   ngOnInit(): void {}
+
+  fazerAlgo(): void {
+    console.log("Fazendo algo!");
+  }
 }
